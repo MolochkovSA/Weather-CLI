@@ -17,14 +17,6 @@
   ],
   "author": "Sergey Molochkov",
   "license": "ISC",
-  "homepage": "https://purpleschool.ru",
-  "repositoru": {
-    "type": "git",
-    "url": "https://purpleschool.ru"
-  },
-  "bugs": {
-    "url": "https://purpleschool.ru"
-  },
   "dependencies": {
     "axios": "^0.27.2",
     "chalk": "^5.0.1",
