@@ -1,4 +1,6 @@
 // #!/usr/bin/env node
+//----API_KEY----:8ddb2ae4d480545c1441bb2374c9ff6d
+
 import { getArgs } from './helpers/args.js'
 import {
   printHelp,
